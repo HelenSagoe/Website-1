@@ -1,0 +1,167 @@
+.cover{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 14;;
+    
+}
+.small-square{
+    width: 20%;
+    height: 60%;
+    background-color: black;
+    opacity: 0.5;
+}
+section.main-content{
+    display: flex;
+    flex: 200px;
+    width: 50%;
+    height: 50%;
+    margin-left: 2%;
+    margin-bottom: 5%;
+  
+}
+.footer{
+    display: flex;
+    flex-wrap: 100px;
+}
+button.main-content{
+ border-radius: 45%;
+}
+/* .info{ */
+    
+    /* border-radius: 10%; */
+    /* height: 100%; */
+    /* width: 100%; */
+/* } */
+.subscribe{
+    background-color: rgb(7, 170, 252) ;
+    border-radius: 10%;
+    color: white;
+    border: 1px solid rgb(7, 170, 252);
+    
+}
+.subscribe-button{
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
+.categories{
+    color: rgb(7, 170, 252);
+}
+h3.categories{
+    color: black;
+}
+.nav{
+    margin-left: 2%;
+   
+}
+.nav-bar{
+    width: 10%;
+    height: 10%;
+    background-color: aliceblue;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 5%;
+    
+}
+.followers{
+    /* background-color: aliceblue; */
+    float: right;
+    margin-left: 15%;
+    margin-right: 4%;
+    width: 10%;
+    height: 2%;
+    text-align: center;
+    font-size: 17px;
+    border-radius: 5%;
+    font-size: small;
+ 
+    
+}
+.nav-bar1{
+    background-color: rgb(7, 170, 252);
+    width: 10%;
+    height: 10%;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 5%;
+    
+    
+}
+.header{
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.top-search{
+    float: right;
+    
+   
+}
+.header-text{
+    font-family: 'Lilita One', cursive;
+    font-size: x-large;
+    display: inline;
+    
+}
+.header-image{
+    height: 2%;
+    width: 2%;
+    margin-bottom:10;
+}
+.header-text2{
+    font-family: 'Lilita One', cursive;
+    font-size: x-large;
+    color: rgb(7, 170, 252);
+    display: inline;
+    
+    
+}
+
+.logo{
+    height: 11%;
+    width: 11%;
+    
+
+}
+.footer{
+    margin-left: 2%;
+    margin-bottom: 7%;
+}
+.footer2{
+    display: flex;
+}
+.footer3{
+    display: flex;
+}
+.guide{
+    margin-left: 5%;
+}
+.baby-pool1{
+    margin-right: 5%;
+}
+.teddy1{
+    margin-right: 5%;  
+}
+.footer4{
+    display: flex;
+
+}
+.footer5{
+    display: flex;
+    
+}
+.blank{
+    margin-left: 5%;
+}
+.fish1{
+    margin-right: 5%;
+}
+.cake1{
+    margin-right: 5%;
+}
