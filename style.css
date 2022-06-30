@@ -1,3 +1,7 @@
+*{
+    
+    width: 100%;
+}
 .cover{
     width: 100%;
     margin-top: 1%;
@@ -12,32 +16,62 @@
 }
 section.main-content{
     display: flex;
+    gap: 7%;
+    justify-content: space-between;
     flex: 200px;
-    width: 50%;
-    height: 50%;
     margin-left: 2%;
     margin-bottom: 5%;
+
   
+}
+.more{
+    width: 12%;
 }
 .footer{
     display: flex;
-    flex-wrap: 100px;
+    /* flex-wrap: 100px; */
 }
 button.main-content{
  border-radius: 45%;
 }
-/* .info{ */
+.info1{
+    border-radius: 5%;
+    margin-right: 20%;
+   
     
-    /* border-radius: 10%; */
-    /* height: 100%; */
-    /* width: 100%; */
-/* } */
+}
+.info2{
+    
+    border-radius: 5%;
+    margin-right: 2;
+   
+    
+}
+.info3{
+    
+    border-radius: 5%;
+    margin-right: 2;
+   
+    
+}
+.info4{
+    
+    border-radius: 5%;
+    margin-right: 2;
+   
+    
+}
 .subscribe{
     background-color: rgb(7, 170, 252) ;
-    border-radius: 10%;
+    border-radius: 5%;
     color: white;
     border: 1px solid rgb(7, 170, 252);
+        width: 10%;
+
     
+}
+.bar{
+    width: 10%;
 }
 .subscribe-button{
     margin-left: 50%;
@@ -45,6 +79,9 @@ button.main-content{
     margin-bottom: 10%;
 
 }
+/* .connected{ */
+   /* margin-right: 10%; */
+/* } */
 .categories{
     color: rgb(7, 170, 252);
 }
@@ -93,6 +130,7 @@ h3.categories{
     border-radius: 5%;
     
     
+    
 }
 .header{
     margin-left: 2%;
@@ -100,8 +138,13 @@ h3.categories{
 }
 .top-search{
     float: right;
+    width: 10%;
+    margin-left: 15%;
     
    
+}
+.search{
+    float: right;
 }
 .header-text{
     font-family: 'Lilita One', cursive;
@@ -132,6 +175,7 @@ h3.categories{
 .footer{
     margin-left: 2%;
     margin-bottom: 7%;
+    display: flex;
 }
 .footer2{
     display: flex;
